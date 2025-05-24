@@ -1,0 +1,20 @@
+# File Konfigurasi Sensitif
+# Mengabaikan file koneksi database agar password tidak bocor
+backend/dbconfig.php
+
+# Dependensi Frontend (Folder ini sangat besar dan bisa di-install ulang)
+frontend/node_modules
+
+# Hasil Build Frontend (Dibuat secara otomatis, tidak perlu disimpan di Git)
+frontend/build
+
+# Log dan file sementara lainnya
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage
+frontend/.DS_Store
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/logs
+*.log
