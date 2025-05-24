@@ -54,6 +54,6 @@ Aplikasi ini dibangun menggunakan serangkaian teknologi modern dan standar indus
   
 2.  **Routing Terproteksi:** Halaman dashboard manajemen pegawai hanya bisa diakses oleh pengguna yang sudah terautentikasi.
 
-Proyek ini telah melalui proses development dan debugging yang komprehensif, mencakup konfigurasi server, penanganan error, koneksi database, hingga implementasi fitur keamanan dasar seperti hashing password dan proteksi sesi. Kode sumber lengkap proyek ini tersedia di repositori GitHub ini sebagai referensi dan portofolio.
+Proyek ini telah melalui proses development dan debugging yang komprehensif, mencakup konfigurasi server, penanganan error, koneksi database, hingga implementasi fitur keamanan dasar seperti password dan proteksi sesi. Kode sumber lengkap proyek ini tersedia di repositori GitHub ini sebagai referensi dan portofolio.
 
 ---
